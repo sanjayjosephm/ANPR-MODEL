@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "hackmoldemo",
+    "private_key_id": "ecba6af278c49030aee7aef6985939821e388e52",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdssATB1l0h5pt\nYJ1XOGLo++uMPzpNOgpQKhA2nrzyz7j9GbCXItDCOOAija/qTNXvnYI1gIXO9uuT\niJhWWPzlzyamvL3pNjomVZSUou93pAaBK3BaMb28vQqvtvp+oHtSsF8GgSbjn40R\nl8Q8H8pWGg2rd9wu2BzNSx81eITjWX4qsyEAeOK2K9avg24gFnuTJsbYENqZAGQi\nrOXwmV/lE0D8YLBaO4GY68TMApLQtqBdlo/Ze6m9llIzuwW02hpSodUAnJZ0pL07\nP0Od2K6jRj/BapJMBnYFWzmbkKvU3c9PqUqUxH+nUqI2u3I1FuXc4EY4q+A3ywqn\nyu5PH8BzAgMBAAECggEAQB2liftKpjZfdXmHF4XxqRLOXPmeOV5rRCLeHIXM/GYR\nyHUJCrShbkI3pBaZBShiiNFjKmj4idIEcF8FO5ex0B6YPYmBXPR3XcXLWi9DFTVF\nQk8XR6ZyCqcbc5T2He/4qoHigYWRgywOBsP/FypUgJE5Wdkovw12SvMKXBL2T690\nn44QdQE6D9k0VsPwo6Pfw04W3HMPDIKNd/WEGpvgKerQTLVkJ0U6v6Go4XnF9VWL\ngBAakqnNJQ/wBmAtYB9qTH9+x8QT9bLzCCyA7kocc/PpXg30ZNOtYoTAtFjjeBT0\nu5BHPsOF8oX38uJTssA/K/ANfUlBVr40vb2dPsvTGQKBgQD66KcO/Uf3izCYMX8G\nmQAfE5l5ozLLp9IKY8dLMxJ32uMFZdMNZ2Hd+iU/i72h8MQpLCH5lmx/EInAA8zN\nsDzKphTRgkMFsrJdEfMqlPvjxibyiZeROiJ/pTs9KmJJteegZ+14OhUgfu6v+BKC\n2JhVfzHUxTqt/wdQtIX7x3NDKQKBgQDiMl0AqYD8VX2Dm02EhowBn1sG+kouClsz\nMoIPFfE/f61WBT7ECbf5LH1LJmUil3aSDMULdoxzeO6nBh4hbkKigVow1sKY+r5s\n81Zci0osalLVEAP5O2+uFbNxY403cmFa3o/896nbrQAvlLNsAB2j/tj6FJ8eDmL1\nIXpTgnPWOwKBgQCIAvH8WCRY9iTje4FGTE4ain9ZxrPUXian5yqzgv3x5r/Fv0rH\nK1GMCPuEFPY5AND1GK1aJMavooFpiyXMIkrx91G1uI0oW5QAi6hrXtOkx1d5hkiZ\nOxBUbXdNUtpw5qCm/W9nCuVE9knhLfKq50q8nfSfSELk6yhGAXXX5GiA8QKBgQCv\nj4tjoiv8rZXXech2nb842yhZiBXfGiai3AbaEpvGPyCX7UZD/Y8PFJrCozBH4usi\nfErLlN16GliQxkzIgb2yR1drJKSw+5ylD1DuTyXoxzU3LVEINjt+EFXQIgZPDLXH\nQ4raOpdZazMDuxRvNL/Ms1ZQ84R0XZIs1CkPe+bQVQKBgQCz4VCXg6yUYJ6hBdYz\nVy7ObRuE9y7GJCpIs8ZK9gz8bE6DihUVrd81st15Zg7jBtXuGHywvUDNypRtXGkF\nGjWkFp43n04ilg4sGlczLfOx53cHH7r2mv0Re8/n6Nm468acfVhj/uIgq4yNBjan\nkucE00sMLtkIj09mVLf/u7UcqA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-gpoq0@hackmoldemo.iam.gserviceaccount.com",
+    "client_id": "110842375447809288891",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gpoq0%40hackmoldemo.iam.gserviceaccount.com"
+  }
